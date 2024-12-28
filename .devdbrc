@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "c:\\Users\\feljo\\Desktop\\laravel-test\\laravel-react-user-management\\database\\database.sqlite"
+  }
+]
