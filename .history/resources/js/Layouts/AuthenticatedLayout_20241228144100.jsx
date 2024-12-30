@@ -30,7 +30,6 @@ export default function AuthenticatedLayout({ header, children }) {
                                 >
                                     Dashboard
                                 </NavLink>
-
                             </div>
                         </div>
 
